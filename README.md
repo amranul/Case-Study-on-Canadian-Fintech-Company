@@ -1,5 +1,5 @@
 
-# Study of Canadian Mortgage Fintech Company “Lendesk”
+# Study on Canadian Mortgage Fintech Company “Lendesk”
 
 ![](https://www.zoocasa.com/blog/wp-content/uploads/2016/09/Lendesk-1.png)
 
